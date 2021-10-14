@@ -1,13 +1,9 @@
 # Flight Fare Prediction: 
 
 ## Table of Content
-  * [Demo](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
-  * [Directory Tree](#directory-tree)
-  * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
 ## Overview
@@ -23,18 +19,6 @@ pip install -r requirements.txt
 ``
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
-## Directory Tree 
-```
-├── static 
-├── css
-├── template
-├── home.html
-├── Procfile
-├── README.md
-├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
-├── requirements.txt
 ```
 
 ## Technologies Used
