@@ -17,15 +17,13 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 ```bash
 pip install -r requirements.txt
 ``
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
-
 ```
 
 ## Technologies Used
-MACHINE LEARNING 
-FLASK 
-GUNICORN 
-SCIKIT LEARN 
+MACHINE LEARNING,
+FLASK,
+GUNICORN,
+SCIKIT LEARN,
 MADE WITH PYTHON 
 
 ## Future Scope
